@@ -5,8 +5,12 @@
 
 ## Stats
 
+<div align="center">
+  
 [![Kayo Libarino's github stats](https://github-readme-stats.vercel.app/api?username=KayoLibarino&show_icons=true&theme=nord&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayoLibarino&layout=compact&langs_count=7&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
   
 ## Tecnologias
   
