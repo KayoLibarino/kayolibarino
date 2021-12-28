@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho com desenvolvimento Web utilizando Python e o Framework Django.
 - 🌱 Estudando Web Scraping e automação Web.
+- ⚡ Curiosidade: Sou fundador de um estúdio de desenvolvimento de jogos chamado <a href="https://pinelgames.com/" target="_blank">Pinel Games</a>.
 
 ## Stats
 
@@ -14,7 +15,7 @@
   
 ## Tecnologias
   
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br />
   <a href="https://kayolibarino.com/" target="_blank">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Django" height="30" width="40" src="https://www.svgrepo.com/show/353657/django-icon.svg">
@@ -26,7 +27,15 @@
     <img align="center" alt="MySQL" height="30" width="40" src="https://www.svgrepo.com/show/373848/mysql.svg">
   </a>
 </div>
-  
+
+## Projetos
+
+<div align="center">
+  <a href="https://cepsbrasil.com.br/" target="_blank">
+    <img align="center" alt="Ceps Brasil" width="260" src="https://kayolibarino.com/wp-content/uploads/2021/12/logo-ceps-brasil-horizontal.png">
+  </a>
+</div>
+
 ## Contato
   
 <div align="center">
