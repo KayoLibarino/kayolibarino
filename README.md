@@ -1,18 +1,19 @@
-# Olá! Eu sou o Kayo Libarino 👋
+# Kayo Libarino
 
-- 🔭 Hoje trabalho com desenvolvimento Web utilizando Python e o Framework Django.
-- 🌱 Estudando Web Scraping e automação Web.
-- ⚡ Curiosidade: Sou fundador de um estúdio de desenvolvimento de jogos chamado <a href="https://pinelgames.com/" target="_blank">Pinel Games</a>.
+Engenheiro de Software Sênior com **15+ anos** de experiência; atualmente focado em back-end **Python/Django** e **APIs REST**.  
+Foco em performance, filas (Celery/RabbitMQ), pipelines (Apache Airflow), PostgreSQL e deploy com Docker/AWS, testes com Pytest.  
+Bacharel em **Ciência da Computação (UESB)** e **Residência em Software no CIn/UFPE** (parceria Motorola Mobility).  
+**Atual:** Engenheiro de Software Sênior na Lys Academy Brasil.  
+<sub>Anterior: fundador da <a href="https://pinelgames.com/">Pinel Games</a> (lançamentos em PC e consoles).</sub>
 
-## Stats
+## Projetos
 
 <div align="center">
-  
-[![Kayo Libarino's github stats](https://github-readme-stats.vercel.app/api?username=KayoLibarino&show_icons=true&theme=nord&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayoLibarino&layout=compact&langs_count=7&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <a href="https://cepsbrasil.com.br/" target="_blank">
+    <img align="center" alt="Ceps Brasil" width="260" src="https://kayolibarino.com/wp-content/uploads/2025/11/logo-ceps-brasil-horizontal.png">
+  </a>
 </div>
-  
+
 ## Tecnologias
   
 <div align="center" style="display: inline_block"><br />
@@ -28,18 +29,10 @@
   </a>
 </div>
 
-## Projetos
-
-<div align="center">
-  <a href="https://cepsbrasil.com.br/" target="_blank">
-    <img align="center" alt="Ceps Brasil" width="260" src="https://kayolibarino.com/wp-content/uploads/2021/12/logo-ceps-brasil-horizontal.png">
-  </a>
-</div>
-
 ## Contato
   
 <div align="center">
-  <a href="https://kayolibarino.com/" target="_blank">kayolibarino.com.br</a><br /><br />
+  <a href="https://kayolibarino.com/" target="_blank">www.kayolibarino.com.br</a><br /><br />
 </div>
   
 <div align="center">
@@ -47,4 +40,13 @@
   <a href="https://twitter.com/KayoLibarino" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/kayolibarino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kayolibarino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+## Estatísticas
+
+<div align="center">
+  
+[![Kayo Libarino's github stats](https://github-readme-stats.vercel.app/api?username=KayoLibarino&show_icons=true&theme=nord&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayoLibarino&layout=compact&langs_count=7&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
