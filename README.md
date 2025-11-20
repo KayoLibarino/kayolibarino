@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://cepsbrasil.com.br/">
-    <img align="center" alt="Ceps Brasil" width="260" src="https://kayolibarino.com/wp-content/uploads/2025/11/logo-ceps-brasil-horizontal.png">
+    <img align="center" alt="Ceps Brasil" width="260" src="https://kayolibarino.com/ceps-brasil.png">
   </a>
 </div>
 <br>
